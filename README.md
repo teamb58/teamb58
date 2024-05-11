@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teamb58" alt="teamb58" /></a> </p>
 
-- 🔭 I’m currently working on [Android OS upgrade to Android 12 on Fairphone 3](https://fairphone.com)
+- 🔭 I’m currently working on [Android OS upgrade to Android 14 on Fairphone 3 and 4](https://fairphone.com)
 
 - 👯 I’m looking to collaborate on **AOSP projects, Android OS xTS fixes, Open Source Android Custom ROMs**
 
